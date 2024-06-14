@@ -1,0 +1,15 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [],
+    "buttons": [
+      {
+        "id": "btn-home",
+        "href": "/",
+        "text": "Home",
+        "outline": true
+      }
+    ]
+  },
+  "logo": {}
+}
